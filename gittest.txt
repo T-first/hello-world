@@ -1,0 +1,2 @@
+add a new file use the command git add
+add the message for test at 2018.9.27.912
